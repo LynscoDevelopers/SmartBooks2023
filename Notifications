@@ -1,6 +1,6 @@
 Msg1:📢<b style="color: red;">Welcome!</b>
 <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb"  alt="Beautiful landscape" style="width: 100%; max-width: 600px; border: 3px solid #ccc;">
-<video src="https://lynscodevelopers.github.io/SmartBooks2023/20250929_075803_DURecorder.mp4" controls width="600">
+<video controls width="600" height="400"> <source src="https://lynscodevelopers.github.io/SmartBooks2023/20250929_075803_DURecorder.mp4" type="video/mp4"></video>
 You can now keep track of your business activities easily. By clicking the link below and logging in, you can:
 🛒 Follow up on Sales – monitor your orders and transactions.
 📦 Track Purchases – review stock and supplier activity.
