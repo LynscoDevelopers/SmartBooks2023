@@ -1,7 +1,14 @@
-Msg1:📢<b style="color: red;">Urgent Reminder:!</b>
+Msg1:📢<b style="color: blue;">Urgent Reminder:!</b>
 Your subscription payment of 1,850.00 for SmartBooks2023 was due on 30/04/2026 and is now overdue.
 Please make the payment to avoid service interruption.
 Check payment details here: https://firebase.google.com/pricing?authuser=0
 For assistance, contact us. Thank you for choosing SmartBooks2023!
-Time1:Wednesday April,29(12:00:00)
+Time1:Wednesday April,29(00:00:00)
 URL1:
+
+Msg2:⚠<b style="color: red;">Action Required:</b>
+Your subscription for SmartBooks2023 has been disabled due to non-payment of 1,850.00 (due 01/05/2026).
+To restore access, please make the payment : https://firebase.google.com/pricing?authuser=0.
+For support, contact us. Thank you for choosing SmartBooks2023!
+Time2:Friday May,1(00:00:00)
+URL2:https://firebase.google.com/pricing?authuser=0
